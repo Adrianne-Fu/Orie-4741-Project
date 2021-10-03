@@ -3,8 +3,8 @@
 Group member:
 
 - Adrianne Fu (sf445)
-- Grant Liu
-- Linyi Lyu
+- Grant Liu (gl399)
+- Linyi Lyu (ll672)
 
 ## Description: 
 
